@@ -727,7 +727,7 @@
                 img.src = URL.createObjectURL(currentFile);
             }, 1000); // Simulate processing time
         }
-        
+
         function downloadCompressedImage() {
             if (!compressedFileBlob) return;
             
