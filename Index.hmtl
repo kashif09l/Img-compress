@@ -298,7 +298,7 @@
             text-decoration: none;
             transition: color 0.3s;
         }
-        
+    
         .footer-section ul li a:hover {
             color: white;
         }
